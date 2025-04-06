@@ -55,6 +55,15 @@ src/
  Deploy MVP to Vercel
  Mobile optimization
  Feedback from beta users
+---
+### 📸 Screenshots
+
+#### 🧩 Wireframe Plan  
+![Mockplan](mockups/mockplan.png)
+
+#### 🎨 High-Fidelity Mockups  
+![Mockups](mockups/high-fidelity-mockups.png)
+---
 📎 Resources
 
 🎨 Figma Mockups
